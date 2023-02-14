@@ -3,5 +3,5 @@ main = "src/index.ts"
 compatibility_date = "2023-02-14"
 
 routes = [
-	{pattern = "routes-test.cyberjake.xyz", custom_domain = true},
+	{pattern = "example.com", custom_domain = true},
 ]
